@@ -2,7 +2,18 @@
     "Version": "1.0",
     "ModID": "City_Factories_Boosted",
     "IncompatibleIds": null,
-    "ModDependencies": null,
+    "ModDependencies": [
+      "city_bakery_aw",
+      "city_butcher_aw",
+      "the_perfect_specialists_and_items_pack",
+      "lion053_21_Legendary_Items"
+    ],
+    "LoadAfterIds": [ 
+      "city_bakery_aw",
+      "city_butcher_aw",
+      "the_perfect_specialists_and_items_pack",
+      "lion053_21_Legendary_Items"
+     ],
     "Category": {
       "Chinese": null,
       "English": "Gameplay",
