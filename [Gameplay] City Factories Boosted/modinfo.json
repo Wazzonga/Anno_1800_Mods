@@ -1,0 +1,70 @@
+{
+    "Version": "0.5",
+    "ModID": "City_Factories_Boosted",
+    "IncompatibleIds": null,
+    "ModDependencies": null,
+    "Category": {
+      "Chinese": null,
+      "English": "Gameplay",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "ModName": {
+      "Chinese": null,
+      "English": "Name",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "Description": {
+      "Chinese": null,
+      "English": "A description what your mod does",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "KnownIssues": 
+    [
+      {
+        "Chinese": null,
+        "English": null,
+        "French": null,
+        "German": null,
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null
+      }
+    ],
+    "DLCDependencies": [
+      {
+        "DLC":"DLC_ID",
+        "Dependant": "required"
+      }
+    ],
+    "CreatorName": "Wazzonga",
+    "CreatorContact": "https://discord.gg/users/Wazzonga",
+    "Image" : null
+  }

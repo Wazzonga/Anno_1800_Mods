@@ -1,0 +1,86 @@
+<ModOps>
+	<!-- City Butcher GUID 2122390030 -->
+	<!-- Frank Stone -->
+	<ModOp Type="add" GUID='125072' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390030</GUID>
+		</Item>
+	</ModOp>
+	<!-- ZendayaChedjou -->
+	<ModOp Type="add" GUID='1742000058' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390030</GUID>
+		</Item>
+	</ModOp>
+	<!-- Maxime Graves, Delicatesseur Extraordinaire -->
+	<ModOp Type="add" GUID='191388' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390030</GUID>
+		</Item>
+	</ModOp>
+	<!-- Chantelle the Charcutier -->
+	<ModOp Type="add" GUID='191401' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390030</GUID>
+		</Item>
+	</ModOp>
+	<!-- Charcutier -->
+	<ModOp Type="add" GUID='191403' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390030</GUID>
+		</Item>
+	</ModOp>
+	<!-- Delicatesseur -->
+	<ModOp Type="add" GUID='191397' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390030</GUID>
+		</Item>
+	</ModOp>
+	<!-- Butcher -->
+	<ModOp Type="add" GUID='191384' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390030</GUID>
+		</Item>
+	</ModOp>
+	<!-- City Bakery GUID 2122390025 -->
+	<!-- Marie-Antoine, Pâtissier Royale -->
+	<ModOp Type="add" GUID='190632' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390025</GUID>
+		</Item>
+	</ModOp>
+	<!-- Pâtissier Patrice -->
+	<ModOp Type="add" GUID='190631' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390025</GUID>
+		</Item>
+	</ModOp>
+	<!-- Fine Cake Decorator -->
+	<ModOp Type="add" GUID='190630' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390025</GUID>
+		</Item>
+	</ModOp>
+	<!-- Pastry Chef -->
+	<ModOp Type="add" GUID='190629' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390025</GUID>
+		</Item>
+	</ModOp>
+	<!-- Baker -->
+	<ModOp Type="add" GUID='190628' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390025</GUID>
+		</Item>
+	</ModOp>
+	<!-- Shared -->
+	<!-- All Food Productions -->
+	<ModOp Type="add" GUID='190897' Path="/Values/ItemEffect/EffectTargets/">
+		<Item>
+			<GUID>2122390030</GUID> <!-- City Butcher -->
+		</Item>
+		<Item>
+			<GUID>2122390025</GUID> <!-- City Bakery -->
+		</Item>
+	</ModOp>
+</ModOps>
