@@ -1,5 +1,5 @@
 {
-    "Version": "0.5",
+    "Version": "1.0",
     "ModID": "City_Factories_Boosted",
     "IncompatibleIds": null,
     "ModDependencies": null,
@@ -18,7 +18,7 @@
     },
     "ModName": {
       "Chinese": null,
-      "English": "Name",
+      "English": "City Factories Boosted",
       "French": null,
       "German": null,
       "Italian": null,
@@ -31,7 +31,7 @@
     },
     "Description": {
       "Chinese": null,
-      "English": "A description what your mod does",
+      "English": "Adds item effects to altmarkwillys city factories.",
       "French": null,
       "German": null,
       "Italian": null,
@@ -65,6 +65,6 @@
       }
     ],
     "CreatorName": "Wazzonga",
-    "CreatorContact": "https://discord.gg/users/Wazzonga",
+    "CreatorContact": null,
     "Image" : null
   }

@@ -1,12 +1,12 @@
 <ModOps>
 	<!-- City Butcher GUID 2122390030 -->
-	<!-- Frank Stone -->
+	<!-- Frank Stone, the Butcher -->
 	<ModOp Type="add" GUID='125072' Path="/Values/ItemEffect/EffectTargets/">
 		<Item>
 			<GUID>2122390030</GUID>
 		</Item>
 	</ModOp>
-	<!-- ZendayaChedjou -->
+	<!-- Zendaya Chedjou, Meat is meat -->
 	<ModOp Type="add" GUID='1742000058' Path="/Values/ItemEffect/EffectTargets/">
 		<Item>
 			<GUID>2122390030</GUID>
